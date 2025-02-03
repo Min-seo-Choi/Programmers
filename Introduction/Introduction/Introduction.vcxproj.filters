@@ -13,5 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Day1_사칙연산">
+      <UniqueIdentifier>{27d79b17-ae8e-4b3c-90b5-40b6d28683db}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="두 수의 합.cpp">
+      <Filter>소스 파일\Day1_사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="두 수의 차.cpp">
+      <Filter>소스 파일\Day1_사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="두 수의 곱.cpp">
+      <Filter>소스 파일\Day1_사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="몫 구하기.cpp">
+      <Filter>소스 파일\Day1_사칙연산</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

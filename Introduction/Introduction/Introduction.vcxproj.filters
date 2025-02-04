@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Day1_사칙연산">
       <UniqueIdentifier>{27d79b17-ae8e-4b3c-90b5-40b6d28683db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day2_사칙연산,조건문,배열">
+      <UniqueIdentifier>{accbaada-78a2-42c4-a886-f300c1505c29}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -29,6 +32,18 @@
     </ClCompile>
     <ClCompile Include="몫 구하기.cpp">
       <Filter>소스 파일\Day1_사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="두 수의 나눗셈.cpp">
+      <Filter>소스 파일\Day2_사칙연산,조건문,배열</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 비교하기.cpp">
+      <Filter>소스 파일\Day2_사칙연산,조건문,배열</Filter>
+    </ClCompile>
+    <ClCompile Include="분수의 덧셈.cpp">
+      <Filter>소스 파일\Day2_사칙연산,조건문,배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 두 배 만들기.cpp">
+      <Filter>소스 파일\Day2_사칙연산,조건문,배열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

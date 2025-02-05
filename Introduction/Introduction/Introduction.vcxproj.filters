@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Day2_사칙연산,조건문,배열">
       <UniqueIdentifier>{accbaada-78a2-42c4-a886-f300c1505c29}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day3_사칙연산, 배열, 수학">
+      <UniqueIdentifier>{97a74fda-5207-4afc-b8e6-38a32674fe02}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -44,6 +47,18 @@
     </ClCompile>
     <ClCompile Include="배열 두 배 만들기.cpp">
       <Filter>소스 파일\Day2_사칙연산,조건문,배열</Filter>
+    </ClCompile>
+    <ClCompile Include="나머지 구하기.cpp">
+      <Filter>소스 파일\Day3_사칙연산, 배열, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="중앙값 구하기.cpp">
+      <Filter>소스 파일\Day3_사칙연산, 배열, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="최빈값 구하기.cpp">
+      <Filter>소스 파일\Day3_사칙연산, 배열, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="짝수는 싫어요.cpp">
+      <Filter>소스 파일\Day3_사칙연산, 배열, 수학</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

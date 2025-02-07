@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Day4_수학, 배열">
       <UniqueIdentifier>{64ef6aeb-5e38-45a1-bb79-629e2b17d671}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day5_수학, 배열">
+      <UniqueIdentifier>{2ea7fcdf-e3bf-4c5d-9db5-b2117e57c014}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -74,6 +77,18 @@
     </ClCompile>
     <ClCompile Include="배열의 평균값.cpp">
       <Filter>소스 파일\Day4_수학, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="옷가게 할인 받기.cpp">
+      <Filter>소스 파일\Day5_수학, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="아이스 아메리카노.cpp">
+      <Filter>소스 파일\Day5_수학, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="나이 출력.cpp">
+      <Filter>소스 파일\Day5_수학, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 뒤집기.cpp">
+      <Filter>소스 파일\Day5_수학, 배열</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

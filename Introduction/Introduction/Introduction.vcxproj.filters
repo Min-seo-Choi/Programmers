@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Day5_수학, 배열">
       <UniqueIdentifier>{2ea7fcdf-e3bf-4c5d-9db5-b2117e57c014}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day6_문자열, 반복문, 출력, 배열, 조건문">
+      <UniqueIdentifier>{5c151dd1-71a4-40c6-84ed-16906306d28f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -89,6 +92,18 @@
     </ClCompile>
     <ClCompile Include="배열 뒤집기.cpp">
       <Filter>소스 파일\Day5_수학, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="문자 반복 출력하기.cpp">
+      <Filter>소스 파일\Day6_문자열, 반복문, 출력, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 뒤집기.cpp">
+      <Filter>소스 파일\Day6_문자열, 반복문, 출력, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="직각삼각형 출력하기.cpp">
+      <Filter>소스 파일\Day6_문자열, 반복문, 출력, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="짝수 홀수 개수.cpp">
+      <Filter>소스 파일\Day6_문자열, 반복문, 출력, 배열, 조건문</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

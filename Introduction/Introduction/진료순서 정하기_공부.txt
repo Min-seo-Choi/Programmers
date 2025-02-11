@@ -1,0 +1,8 @@
+#include <algorithm> 의 sort 함수 공부
+-> sort 사용시, 기본 오름차순
+-> std::less() 사용시 오름차순
+-> std::greater() 사용시 내림차순
+
+#include <algorithm> 의 distance 함수 공부
+-> std::distance(InitFirst, InitLast)
+-> first 부터 last 까지의 거리를 반환해준다.(0부터 시작)

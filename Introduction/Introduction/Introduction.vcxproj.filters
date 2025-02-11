@@ -34,6 +34,12 @@
     <Filter Include="소스 파일\Day7_문자열, 조건문, 수학, 반목문">
       <UniqueIdentifier>{afda90f9-7706-4192-a228-b36c6b6fbdad}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day8 배열, 구현, 수학">
+      <UniqueIdentifier>{7dadfb1e-24f8-4310-9e95-155a308f578c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\오답노트 및 공부 필요">
+      <UniqueIdentifier>{458bdd17-f2f4-4e25-b086-ab4722da4bda}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -120,5 +126,22 @@
     <ClCompile Include="짝수의 합.cpp">
       <Filter>소스 파일\Day7_문자열, 조건문, 수학, 반목문</Filter>
     </ClCompile>
+    <ClCompile Include="배열 자르기.cpp">
+      <Filter>소스 파일\Day8 배열, 구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="외계행성의 나이.cpp">
+      <Filter>소스 파일\Day8 배열, 구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="진료순서 정하기.cpp">
+      <Filter>소스 파일\Day8 배열, 구현, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="순서쌍의 개수.cpp">
+      <Filter>소스 파일\Day8 배열, 구현, 수학</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="진료순서 정하기_공부.txt">
+      <Filter>소스 파일\오답노트 및 공부 필요</Filter>
+    </Text>
   </ItemGroup>
 </Project>

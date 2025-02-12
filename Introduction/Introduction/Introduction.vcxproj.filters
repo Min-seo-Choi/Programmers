@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\오답노트 및 공부 필요">
       <UniqueIdentifier>{458bdd17-f2f4-4e25-b086-ab4722da4bda}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day9_수학, 문자열, 해시, 완전탐색, 조건문">
+      <UniqueIdentifier>{ce529b2f-4158-44ad-bafa-ed9450a1c0db}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -138,10 +141,28 @@
     <ClCompile Include="순서쌍의 개수.cpp">
       <Filter>소스 파일\Day8 배열, 구현, 수학</Filter>
     </ClCompile>
+    <ClCompile Include="가위 바위 보.cpp">
+      <Filter>소스 파일\Day9_수학, 문자열, 해시, 완전탐색, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="개미 군단.cpp">
+      <Filter>소스 파일\Day9_수학, 문자열, 해시, 완전탐색, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="구슬을 나누는 경우의 수.cpp">
+      <Filter>소스 파일\Day9_수학, 문자열, 해시, 완전탐색, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="모스부호(1).cpp">
+      <Filter>소스 파일\Day9_수학, 문자열, 해시, 완전탐색, 조건문</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="진료순서 정하기_공부.txt">
       <Filter>소스 파일\오답노트 및 공부 필요</Filter>
     </Text>
+    <Text Include="구슬을 나누는 경우의 수_공부.txt">
+      <Filter>소스 파일\오답노트 및 공부 필요</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>

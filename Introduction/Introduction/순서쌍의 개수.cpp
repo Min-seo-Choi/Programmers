@@ -22,8 +22,3 @@ int solution(int n)
 
 	return nums.size() % 2 == 0 ? nums.size() / 2 : (nums.size() / 2) + 2;
 }
-
-int main()
-{
-	cout << solution(1000000);
-}

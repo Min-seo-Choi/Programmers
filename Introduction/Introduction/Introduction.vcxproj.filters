@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\Day9_수학, 문자열, 해시, 완전탐색, 조건문">
       <UniqueIdentifier>{ce529b2f-4158-44ad-bafa-ed9450a1c0db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day10_조건문, 배열, 수학, 시뮬레이션">
+      <UniqueIdentifier>{c2c693ef-de30-40a2-bd5e-1e9f2ec6c393}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -152,6 +155,18 @@
     </ClCompile>
     <ClCompile Include="모스부호(1).cpp">
       <Filter>소스 파일\Day9_수학, 문자열, 해시, 완전탐색, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 회전시키기.cpp">
+      <Filter>소스 파일\Day10_조건문, 배열, 수학, 시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원으로 만들기.cpp">
+      <Filter>소스 파일\Day10_조건문, 배열, 수학, 시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="공 던지기.cpp">
+      <Filter>소스 파일\Day10_조건문, 배열, 수학, 시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="점의 위치 구하기.cpp">
+      <Filter>소스 파일\Day10_조건문, 배열, 수학, 시뮬레이션</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

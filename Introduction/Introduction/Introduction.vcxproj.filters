@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\Day11_수학, 반목문">
       <UniqueIdentifier>{5132b5c6-71be-42cb-b016-7cd62a7665c9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day12_문자열, 정렬, 사칙연산, 수학">
+      <UniqueIdentifier>{10526aa4-614b-4669-8c05-07e4692bef07}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -182,6 +185,18 @@
     </ClCompile>
     <ClCompile Include="합성수 찾기.cpp">
       <Filter>소스 파일\Day11_수학, 반목문</Filter>
+    </ClCompile>
+    <ClCompile Include="모음 제거.cpp">
+      <Filter>소스 파일\Day12_문자열, 정렬, 사칙연산, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 정렬하기 (1).cpp">
+      <Filter>소스 파일\Day12_문자열, 정렬, 사칙연산, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="소인수분해.cpp">
+      <Filter>소스 파일\Day12_문자열, 정렬, 사칙연산, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="숨어있는 숫자의 덧셈(1).cpp">
+      <Filter>소스 파일\Day12_문자열, 정렬, 사칙연산, 수학</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

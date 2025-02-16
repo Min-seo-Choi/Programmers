@@ -52,6 +52,9 @@
     <Filter Include="소스 파일\Day12_문자열, 정렬, 사칙연산, 수학">
       <UniqueIdentifier>{10526aa4-614b-4669-8c05-07e4692bef07}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day13_문자열, 배열, 사칙연산, 수학, 조건문">
+      <UniqueIdentifier>{d49b87c7-356f-4e22-b759-59d3420c0a1b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -197,6 +200,18 @@
     </ClCompile>
     <ClCompile Include="숨어있는 숫자의 덧셈(1).cpp">
       <Filter>소스 파일\Day12_문자열, 정렬, 사칙연산, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각형 완성조건 (1).cpp">
+      <Filter>소스 파일\Day13_문자열, 배열, 사칙연산, 수학, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 원소의 길이.cpp">
+      <Filter>소스 파일\Day13_문자열, 배열, 사칙연산, 수학, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="중복된 문자 제거.cpp">
+      <Filter>소스 파일\Day13_문자열, 배열, 사칙연산, 수학, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="컨트롤 제트.cpp">
+      <Filter>소스 파일\Day13_문자열, 배열, 사칙연산, 수학, 조건문</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

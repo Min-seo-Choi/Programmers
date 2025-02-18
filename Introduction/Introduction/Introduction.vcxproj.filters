@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\Day13_문자열, 배열, 사칙연산, 수학, 조건문">
       <UniqueIdentifier>{d49b87c7-356f-4e22-b759-59d3420c0a1b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day14_조건문, 반복문, 시뮬레이션, 문자열">
+      <UniqueIdentifier>{3ff8a655-b735-42d6-9565-066100252958}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -212,6 +215,18 @@
     </ClCompile>
     <ClCompile Include="컨트롤 제트.cpp">
       <Filter>소스 파일\Day13_문자열, 배열, 사칙연산, 수학, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="대문자와 소문자.cpp">
+      <Filter>소스 파일\Day14_조건문, 반복문, 시뮬레이션, 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="암호 해독.cpp">
+      <Filter>소스 파일\Day14_조건문, 반복문, 시뮬레이션, 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="369게임.cpp">
+      <Filter>소스 파일\Day14_조건문, 반복문, 시뮬레이션, 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="가까운 수.cpp">
+      <Filter>소스 파일\Day14_조건문, 반복문, 시뮬레이션, 문자열</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

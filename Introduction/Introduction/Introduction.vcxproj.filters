@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\Day14_조건문, 반복문, 시뮬레이션, 문자열">
       <UniqueIdentifier>{3ff8a655-b735-42d6-9565-066100252958}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day15_문자열, 해시, 배열, 수학">
+      <UniqueIdentifier>{bde9dce4-b312-493e-845b-09a0bf2671d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -227,6 +230,18 @@
     </ClCompile>
     <ClCompile Include="가까운 수.cpp">
       <Filter>소스 파일\Day14_조건문, 반복문, 시뮬레이션, 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="약수 구하기.cpp">
+      <Filter>소스 파일\Day15_문자열, 해시, 배열, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="한 번만 등장한 문자.cpp">
+      <Filter>소스 파일\Day15_문자열, 해시, 배열, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="인덱스 바꾸기.cpp">
+      <Filter>소스 파일\Day15_문자열, 해시, 배열, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="영어가 싫어요.cpp">
+      <Filter>소스 파일\Day15_문자열, 해시, 배열, 수학</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

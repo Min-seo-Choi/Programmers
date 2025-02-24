@@ -1,0 +1,9 @@
+vector<int>::iterator iter = max_element(array.begin(), array.end());
+위 코드를 작성 후,
+
+iter = find(array.begin(), array.end(), iter);
+distance(array.begin(), iter);
+
+형식으로 구현 했었다. 하지만 계속 오류가 나길래 왜 일까, 하고 검색을 해 보았더니
+이미 find는 value를 찾는 값으로, iterator를 넣었으니 오류가 났던 것....
+

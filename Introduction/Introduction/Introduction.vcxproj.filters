@@ -61,6 +61,12 @@
     <Filter Include="소스 파일\Day15_문자열, 해시, 배열, 수학">
       <UniqueIdentifier>{bde9dce4-b312-493e-845b-09a0bf2671d8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day16_문자열, 수학, 배열, 조건문">
+      <UniqueIdentifier>{c1041aa6-0881-495f-a4dc-6f1bc7042ac8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day17_문자열, 수학, 조건문, 배열, 사칙연산">
+      <UniqueIdentifier>{7a5aee64-046b-450b-85d4-28fd3cf795b9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -243,12 +249,42 @@
     <ClCompile Include="영어가 싫어요.cpp">
       <Filter>소스 파일\Day15_문자열, 해시, 배열, 수학</Filter>
     </ClCompile>
+    <ClCompile Include="가장 큰 수 찾기.cpp">
+      <Filter>소스 파일\Day16_문자열, 수학, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 계산하기.cpp">
+      <Filter>소스 파일\Day16_문자열, 수학, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="배열의 유사도.cpp">
+      <Filter>소스 파일\Day16_문자열, 수학, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="편지.cpp">
+      <Filter>소스 파일\Day16_문자열, 수학, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="OX퀴즈.cpp">
+      <Filter>소스 파일\Day17_문자열, 수학, 조건문, 배열, 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="자릿수 더하기.cpp">
+      <Filter>소스 파일\Day17_문자열, 수학, 조건문, 배열, 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="n의 배수 고르기.cpp">
+      <Filter>소스 파일\Day17_문자열, 수학, 조건문, 배열, 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 찾기.cpp">
+      <Filter>소스 파일\Day17_문자열, 수학, 조건문, 배열, 사칙연산</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="진료순서 정하기_공부.txt">
       <Filter>소스 파일\오답노트 및 공부 필요</Filter>
     </Text>
     <Text Include="구슬을 나누는 경우의 수_공부.txt">
+      <Filter>소스 파일\오답노트 및 공부 필요</Filter>
+    </Text>
+    <Text Include="가장 큰 수 찾기_오답노트.txt">
+      <Filter>소스 파일\오답노트 및 공부 필요</Filter>
+    </Text>
+    <Text Include="문자열 계산하기_공부.txt">
       <Filter>소스 파일\오답노트 및 공부 필요</Filter>
     </Text>
   </ItemGroup>

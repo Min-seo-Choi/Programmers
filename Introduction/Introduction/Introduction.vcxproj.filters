@@ -67,6 +67,9 @@
     <Filter Include="소스 파일\Day17_문자열, 수학, 조건문, 배열, 사칙연산">
       <UniqueIdentifier>{7a5aee64-046b-450b-85d4-28fd3cf795b9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day18_문자열, 수학, 조건문, 정렬">
+      <UniqueIdentifier>{a44f5f57-952b-433c-8168-bc0157000a21}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -273,6 +276,18 @@
     <ClCompile Include="숫자 찾기.cpp">
       <Filter>소스 파일\Day17_문자열, 수학, 조건문, 배열, 사칙연산</Filter>
     </ClCompile>
+    <ClCompile Include="문자열안에 문자열.cpp">
+      <Filter>소스 파일\Day18_문자열, 수학, 조건문, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 정렬하기 (2).cpp">
+      <Filter>소스 파일\Day18_문자열, 수학, 조건문, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="세균 증식.cpp">
+      <Filter>소스 파일\Day18_문자열, 수학, 조건문, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="제곱수 판별하기.cpp">
+      <Filter>소스 파일\Day18_문자열, 수학, 조건문, 정렬</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="진료순서 정하기_공부.txt">
@@ -285,6 +300,9 @@
       <Filter>소스 파일\오답노트 및 공부 필요</Filter>
     </Text>
     <Text Include="문자열 계산하기_공부.txt">
+      <Filter>소스 파일\오답노트 및 공부 필요</Filter>
+    </Text>
+    <Text Include="세균증식_공부.txt">
       <Filter>소스 파일\오답노트 및 공부 필요</Filter>
     </Text>
   </ItemGroup>

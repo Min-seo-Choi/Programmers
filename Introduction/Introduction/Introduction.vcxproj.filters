@@ -70,6 +70,9 @@
     <Filter Include="소스 파일\Day18_문자열, 수학, 조건문, 정렬">
       <UniqueIdentifier>{a44f5f57-952b-433c-8168-bc0157000a21}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day19_문자열, 배열, 조건문">
+      <UniqueIdentifier>{7f6b343b-5d70-42c8-a40e-dd98019b0ec9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -287,6 +290,18 @@
     </ClCompile>
     <ClCompile Include="제곱수 판별하기.cpp">
       <Filter>소스 파일\Day18_문자열, 수학, 조건문, 정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="머쓱이보다 키 큰 사람.cpp">
+      <Filter>소스 파일\Day19_문자열, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="중복된 숫자 개수.cpp">
+      <Filter>소스 파일\Day19_문자열, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="잘라서 배열로 저장하기.cpp">
+      <Filter>소스 파일\Day19_문자열, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="7의 개수.cpp">
+      <Filter>소스 파일\Day19_문자열, 배열, 조건문</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

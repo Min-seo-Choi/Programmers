@@ -76,6 +76,9 @@
     <Filter Include="소스 파일\Day20_수학, 시뮬레이션, 문자열, 사칙연산">
       <UniqueIdentifier>{9810af2e-6eda-4eed-afd0-4e807ee566fb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Dat21_문자열, 사칙연산, 시뮬레이션, 2차원 배열, 수학, 배열">
+      <UniqueIdentifier>{0f5ca309-896e-41f9-b250-4cfe8e1b363e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -317,6 +320,18 @@
     </ClCompile>
     <ClCompile Include="직사각형 넓이 구하기.cpp">
       <Filter>소스 파일\Day20_수학, 시뮬레이션, 문자열, 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="외계어 사전.cpp">
+      <Filter>소스 파일\Dat21_문자열, 사칙연산, 시뮬레이션, 2차원 배열, 수학, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각형의 완성조건 (2).cpp">
+      <Filter>소스 파일\Dat21_문자열, 사칙연산, 시뮬레이션, 2차원 배열, 수학, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="안전지대.cpp">
+      <Filter>소스 파일\Dat21_문자열, 사칙연산, 시뮬레이션, 2차원 배열, 수학, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="숨어있는 숫자의 덧셈 (2).cpp">
+      <Filter>소스 파일\Dat21_문자열, 사칙연산, 시뮬레이션, 2차원 배열, 수학, 배열</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -73,6 +73,9 @@
     <Filter Include="소스 파일\Day19_문자열, 배열, 조건문">
       <UniqueIdentifier>{7f6b343b-5d70-42c8-a40e-dd98019b0ec9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day20_수학, 시뮬레이션, 문자열, 사칙연산">
+      <UniqueIdentifier>{9810af2e-6eda-4eed-afd0-4e807ee566fb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -302,6 +305,18 @@
     </ClCompile>
     <ClCompile Include="7의 개수.cpp">
       <Filter>소스 파일\Day19_문자열, 배열, 조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="다항식 더하기.cpp">
+      <Filter>소스 파일\Day20_수학, 시뮬레이션, 문자열, 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="최댓값 만들기 (2).cpp">
+      <Filter>소스 파일\Day20_수학, 시뮬레이션, 문자열, 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="캐릭터의 좌표.cpp">
+      <Filter>소스 파일\Day20_수학, 시뮬레이션, 문자열, 사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="직사각형 넓이 구하기.cpp">
+      <Filter>소스 파일\Day20_수학, 시뮬레이션, 문자열, 사칙연산</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

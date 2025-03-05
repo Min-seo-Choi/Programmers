@@ -79,6 +79,9 @@
     <Filter Include="소스 파일\Dat21_문자열, 사칙연산, 시뮬레이션, 2차원 배열, 수학, 배열">
       <UniqueIdentifier>{0f5ca309-896e-41f9-b250-4cfe8e1b363e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day22_dp, 수학, 조건문, 배열">
+      <UniqueIdentifier>{3dce6175-8685-439d-b93a-559fbac9f45a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -332,6 +335,18 @@
     </ClCompile>
     <ClCompile Include="숨어있는 숫자의 덧셈 (2).cpp">
       <Filter>소스 파일\Dat21_문자열, 사칙연산, 시뮬레이션, 2차원 배열, 수학, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="유한소수 판별하기.cpp">
+      <Filter>소스 파일\Day22_dp, 수학, 조건문, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="겹치는 선분의 길이.cpp">
+      <Filter>소스 파일\Day22_dp, 수학, 조건문, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="평행.cpp">
+      <Filter>소스 파일\Day22_dp, 수학, 조건문, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="저주의 숫자 3.cpp">
+      <Filter>소스 파일\Day22_dp, 수학, 조건문, 배열</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

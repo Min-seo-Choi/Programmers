@@ -82,6 +82,9 @@
     <Filter Include="소스 파일\Day22_dp, 수학, 조건문, 배열">
       <UniqueIdentifier>{3dce6175-8685-439d-b93a-559fbac9f45a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day23_배열, 정렬, 문자열">
+      <UniqueIdentifier>{1026968e-cc50-48fa-9fdb-ef1130ab7b7c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -347,6 +350,18 @@
     </ClCompile>
     <ClCompile Include="저주의 숫자 3.cpp">
       <Filter>소스 파일\Day22_dp, 수학, 조건문, 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="특이한 정렬.cpp">
+      <Filter>소스 파일\Day23_배열, 정렬, 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="등수 매기기.cpp">
+      <Filter>소스 파일\Day23_배열, 정렬, 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="옹알이 (1).cpp">
+      <Filter>소스 파일\Day23_배열, 정렬, 문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="로그인 성공.cpp">
+      <Filter>소스 파일\Day23_배열, 정렬, 문자열</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,25 @@
+﻿문자열로 받은 2진수를 10진수로 변환하는 법
+stoi(str, nullptr, 2);
+
+=> int stoi(const string& str, size_t* idx =0, int base = 10);
+▼ 매개변수가 뜻하는 것들
+함수원형1 : int stoi(const string& str, size_t* idx =0, int base = 10);
+함수원형2 : float stof(const string& str, size_t* idx = 0);
+ 
+첫번째 인자 const string& str: 변경할 문자열이 들어가게 됩니다.
+문자열 복사의 비용이 들어가지 않도록 & (reference)를 이용해서 넘기게 됩니다.
+또한 함수 내부에서 변경이 일어나지 않음을 보장하기 위해서 const 상수 취급해서 넘기게 됩니다.
+
+두번째 인자 size_t* idx = 0: 두번째는 포인터 타입인데요. 
+맨 첫번째 부터 숫자가 아닌 부분까지 해서 그부분의 포인터를 걸러줍니다.
+세번째 인자까지 사용하는데, 두번째 인자는 사용하지 않겠다 하면 nullptr을 넣으면됩니다.
+ 
+세번째 인자 int base = 10 (정수형에만 존재): base 는 진수를 뜻하는 것입니다.
+default가 10으로 되어있잖아요. 
+이것은 10진수가 기본이라는 뜻입니다.
+string 안에 있는 숫자의 표현이 어떤것이다 라고 base 를 통해서 알려주는 것 입니다.
+binary (2진수)이라면 2를 넣고
+octal (8진수)이라면 8을 넣고
+decimal (10진수)는 기본이니까 넣지 않아도 됩니다. 
+굳이 10을 넣는다 해도 무관합니다.
+출처: https://blockdmask.tistory.com/333 [가면 뒤의 기록:티스토리]

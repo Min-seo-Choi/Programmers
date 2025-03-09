@@ -88,6 +88,9 @@
     <Filter Include="소스 파일\Day24_수학, 시뮬레이션, 문자열, 조건문, 반복문">
       <UniqueIdentifier>{06ad0b1f-7d92-45eb-8ed1-bdd7c41d1c19}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day25_시뮬레이션, 조건문, 수학">
+      <UniqueIdentifier>{3ef783c3-0235-4fc0-850d-78ff220527e8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="두 수의 합.cpp">
@@ -378,6 +381,18 @@
     <ClCompile Include="치킨 쿠폰.cpp">
       <Filter>소스 파일\Day24_수학, 시뮬레이션, 문자열, 조건문, 반복문</Filter>
     </ClCompile>
+    <ClCompile Include="다음에 올 숫자.cpp">
+      <Filter>소스 파일\Day25_시뮬레이션, 조건문, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="연속된 수의 합.cpp">
+      <Filter>소스 파일\Day25_시뮬레이션, 조건문, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="종이 자르기.cpp">
+      <Filter>소스 파일\Day25_시뮬레이션, 조건문, 수학</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 밀기.cpp">
+      <Filter>소스 파일\Day25_시뮬레이션, 조건문, 수학</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="진료순서 정하기_공부.txt">
@@ -396,6 +411,9 @@
       <Filter>소스 파일\오답노트 및 공부 필요</Filter>
     </Text>
     <Text Include="이진수 더하기_공부.txt">
+      <Filter>소스 파일\오답노트 및 공부 필요</Filter>
+    </Text>
+    <Text Include="문자열 밀기_공부, 오답노트.txt">
       <Filter>소스 파일\오답노트 및 공부 필요</Filter>
     </Text>
   </ItemGroup>

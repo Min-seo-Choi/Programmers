@@ -13,10 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\PCCE 기출문제">
+      <UniqueIdentifier>{d0382c6d-ecea-4f9c-a28d-0dc171f3021e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ZeroStep.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="PCCE 1_문자출력.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 2_ 각도 합치기.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 3_ 수 나누기.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 4_병과 분류.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 5_ 심폐소생술.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

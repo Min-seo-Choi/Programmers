@@ -33,5 +33,20 @@
     <ClCompile Include="PCCE 5_ 심폐소생술.cpp">
       <Filter>소스 파일\PCCE 기출문제</Filter>
     </ClCompile>
+    <ClCompile Include="PCCE 2_피타고라스의 정리.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 1_출력.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 8_닉네임 규칙.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 7_버스.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 6_물부족.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -48,5 +48,20 @@
     <ClCompile Include="PCCE 6_물부족.cpp">
       <Filter>소스 파일\PCCE 기출문제</Filter>
     </ClCompile>
+    <ClCompile Include="PCCE 3_나이 계산.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 4_저축.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 5_산책.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 6_가채점.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
+    <ClCompile Include="PCCE 7_가습기.cpp">
+      <Filter>소스 파일\PCCE 기출문제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
